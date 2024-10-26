@@ -18,8 +18,8 @@ body {
 
 .container {
     position: relative;
-    width: 25%;
-    height: 460px;
+    width: 400px;
+    height: 550px;
     margin: 0px auto;
     top: 100px;
     padding:  2px;
@@ -34,7 +34,7 @@ body {
 .container img{
     border-radius: 1rem;
     width: 95%;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .container h1 {
@@ -48,5 +48,5 @@ body {
     color: var(--slate-500);
     text-align: center;
     line-height: 1.5rem;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
