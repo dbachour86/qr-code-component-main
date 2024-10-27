@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/dbachour86/qr-code-component-main](https://github.com/dbachour86/qr-code-component-main)
-- Live Site URL: [https://dbachour86.github.io/qr-code-component-main/](ttps://dbachour86.github.io/qr-code-component-main/)
+- Live Site URL: [https://dbachour86.github.io/qr-code-component-main](ttps://dbachour86.github.io/qr-code-component-main/)
 
 ## My process
 
